@@ -1,0 +1,578 @@
+*{margin:0;padding:0}
+img{width:100%}
+
+.logo {
+    width: 150px;
+    float: left;
+    padding: 15px;
+}
+
+ul.maincontent li {
+    float: left;
+    list-style: none;
+    padding: 0px 15px;
+}
+
+ul.maincontent {
+    width: 785px;
+    float: right;
+}
+
+ul.maincontent li a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+	transition:all 1s;
+}
+
+ul.maincontent {
+    margin-top: 21px;
+}
+
+nav.mainnav {
+    overflow: hidden;
+    background: #191313;
+    border-bottom: 1px dotted white;
+    width: 100%;
+    position: fixed;
+	z-index: 1;
+
+}
+ul.maincontent li a:hover {
+    color: #1bd6b3;
+    border-bottom: 2px solid #1bd6b3;
+}
+
+menu.mainmenu {
+    width: 1170px;
+    margin: auto;
+}
+
+.FirstSecCon {
+    width: 466px;
+    padding: 114px;
+}
+
+.FirstSecHead {
+    font-family: sans-serif;
+    padding-bottom: 15px;
+    color: #f4f7f4;
+}
+
+.FirstSecFP {
+    font-size: 29px;
+    font-family: fantasy;
+    color: #d6d2d2;
+    padding-bottom: 15px;
+}
+
+.FirstSecSP {
+    font-size: 17px;
+    font-family: sans-serif;
+    line-height: 26px;
+    color: white;
+    padding-bottom: 22px;
+}
+
+.button button {
+    background: #219292;
+    padding: 15px 30px;
+    border: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+	transition:all 1s;
+}
+
+.button button:hover {
+    background: #051b1bb8;
+}
+
+
+
+
+section.FirestSec {
+    background: linear-gradient( #00000070, #00000070),
+                linear-gradient( #1b0a0a8a, #0000006e),
+                url(img2/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 522px;
+}
+
+.divcontent {
+    width: 590px;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+}
+
+.divspan {
+    font-size: 20px;
+    font-family: cursive;
+    padding-bottom: 10px;
+    color: #1bcde4;
+}
+
+.divtitle {
+    font-size: 20px;
+    font-family: none;
+    color: white;
+    padding-bottom: 15px;
+}
+
+.divbody {
+    font-size: 16px;
+    font-family: inherit;
+    color: white;
+    line-height: 24px;
+}
+section.SecSec {
+    background: #1b252f;
+}
+
+.SecSecL8con {
+    width: 580px;
+    font-size: 17px;
+    font-family: serif;
+    line-height: 27px;
+    color: white;
+    float: left;
+}
+
+.divulli li {
+    width: 220px;
+    padding: 13px;
+    list-style: tibetan;
+}
+
+.SecSecR8con {
+    height: 524px;
+    width: 580px;
+    float: right;
+}
+
+.SecSecfullcon {
+    width: 1170px;
+    overflow: hidden;
+    margin: auto;
+    height: 771px;
+}
+.divulli {
+    padding: 89px 0px 0px 35px;
+}
+
+section.secthree {
+    background: #0b1527;
+}
+.divinnerimg progress {
+    width: 550px;
+    border:none;
+    border-radius: 5px;
+    margin-top: 15px;
+	
+}
+.bigtitle {
+    font-size: 29px;
+    font-family: sans-serif;
+    line-height: 46px;
+}
+.divinnerimg {
+    color: white;
+    font-family: sans-serif;
+}
+.SecSecfullcon.lowheight {
+    height: 360px;
+}
+
+.fourDivImg {
+    width: 75px;
+    padding-left: 150px;
+    padding-bottom: 25px;
+}
+.fourDivHead {
+    font-size: 20px;
+    font-family: fantasy;
+    color: #2cdaba;
+    padding-bottom: 25px;
+}
+
+.fourDivTitle {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #c7eae2;
+    padding-bottom: 25px;
+}
+.fourDivCon {
+    width: 360px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 25px;
+}
+.divconwrapper {
+    width: 1170px;
+    margin: auto;
+    padding:50px 0px;
+}
+
+section.Secfour {
+    background:linear-gradient(#00000099,#00000099),
+	           linear-gradient(#00000099,#00000099),url('img2/01 (1).jpg');
+}
+
+.fivedivCon {
+    width: 292px;
+    text-align: center;
+    background: #a2a2a2;
+    padding: 20px 20px;
+    display: inline-block;
+    margin-left: 45px;
+    margin-bottom: 36px;
+}
+
+.fivedivtitle {
+    font-family: sans-serif;
+    text-align: right;
+    padding: 1px;
+    font-size: 23px;
+    border-bottom: 1px dotted white;
+}
+
+.fivedivhead {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #102524;
+    margin-bottom: 22px;
+}
+.fivedivImg {
+    width: 100px;
+    background: #0fcce4;
+    padding: 14px;
+    margin: auto;
+    margin-bottom: 24px;
+}
+
+.fivedivPera {
+    font-family: initial;
+    line-height: 21px;
+    margin-bottom: 30px;
+    color: #2ad8c8;
+}
+
+.titleouter {
+    overflow: hidden;
+}
+
+.fivedivtitle h1 {
+    transform: skew(0deg, 10deg);
+	transition:all 1s;
+}
+
+.fivedivCon:hover .fivedivtitle h1{
+	
+	transform: skew(0deg, 0deg);
+}
+
+.fivedivCon:hover .fivedivImg{
+    transform:scale(1.1);
+}
+
+.secfivefullcon {
+    width: 1170px;
+    margin: auto;
+    margin-top: 31px;
+}
+section.secFive {
+    background: #474748;
+}
+ul.cetagoriscontent li {
+    float: left;
+    list-style: none;
+    padding: 0px 22px;
+    color: white;
+	transition:all 1s;
+}
+ul.cetagoriscontent li:hover {
+    cursor: pointer;
+    color: orange;
+}
+
+.cetagoris {
+    overflow: hidden;
+    width: 700px;
+    margin: auto;
+    padding: 28px 26px;
+}
+
+
+
+.garrybox {
+    width: 360px;
+    overflow: hidden;
+    height: 218px;
+	position: relative;
+	transition:all 1s;
+	display:inline-block;
+	margin-left: 24px;
+    margin-bottom: 23px;
+}
+
+
+.garryouer {
+    display: grid;
+    place-items: center;
+    width: 353px;
+    background: #0e0e0ed1;
+    height: 210px;
+    position: absolute;
+    top: 0;
+	transform: scale(0);
+	transition:all 0.4s;
+	color:white;
+    border: 3px solid #21e8d6;
+}
+
+.garrybox:hover .garryouer{transform: scale(1);}
+
+
+section.sixSec {
+    background: #272626;
+}
+
+.garrybox:hover {
+    cursor: pointer;
+}
+
+.secSesvenContent {
+    width: 430px;
+    padding: 30px;
+    background: #252525;
+    color: white;
+    box-shadow: 1px 1px 12px 3px #2d2d2d;
+}
+
+.secSesvenImg {
+    width: 90px;
+    margin-bottom: 7px;
+}
+
+.secSesvenHead {
+    color: #9a9a9a;
+    margin-bottom: 10px;
+}
+
+.secSesvenBody {
+    font-size: 16px;
+    font-family: serif;
+    line-height: 22px;
+}
+
+.overimg {
+    overflow: hidden;
+    width: 77px;
+    height: 79px;
+    border: 1px solid green;
+    border-radius: 50%;
+    position: absolute;
+    top: -52px;
+	left: 34px;
+}
+
+.secSevenFullCon {
+    position: sticky;
+}
+
+.secSevenFullCon {
+    position: sticky;
+    display: inline-block;
+	margin-left: 64px;
+	margin-bottom:50px;
+}
+
+section.sevenSec {
+    background: #333333;
+}
+
+.divbutton {
+    overflow: hidden;
+    width: 150px;
+    margin: auto;
+    padding: 16px 19px 45px;
+}
+
+ul.divbtncon li {
+    list-style: none;
+    float: left;
+    font-size: 28px;
+    font-family: monospace;
+    width: 25px;
+    height: 35px;
+    background: #166c77;
+    margin-left: 10px;
+    padding-left: 11px;
+    border: 2px solid #06d2ec;
+    border-radius: 50%;
+    color: white;
+}
+
+.seceightimgout {
+    overflow: hidden;
+    width: 350px;
+    margin-bottom: 25px;
+}
+
+.seceightimg {
+    width: 350px;
+	transition:all 1s;
+}
+
+.seceightcon {
+    width: 350px;
+    background: #505050;
+	display:inline-block;
+	margin-left: 25px;
+	box-shadow: -2px 6px 17px 5px #3e3d3d;
+}
+
+.seceightpera h5 {
+    font-size: 20px;
+    color: #298477;
+    font-family: serif;
+    text-align: center;
+    margin-bottom: 25px;
+	transition:all 1s;
+}
+
+.seceightpera p {
+    font-size: 21px;
+    font-family: serif;
+    color: #888888;
+}
+
+.seceightpera p {
+    font-size: 21px;
+    font-family: serif;
+    color: #fffbfb;
+    text-align: center;
+    padding-bottom: 29px;
+}
+
+.admin img {
+    width: 55px;
+    height: 54px;
+    overflow: hidden;
+    border-radius: 100%;
+}
+.admin {
+    width: 200px;
+    background: #1f1f1f;
+    border-radius: 50px;
+    padding: 3px 8px 0px 10px;
+    position: relative;
+	margin-left: 20px;
+}
+
+.admin span {
+    font-size: 15px;
+    position: absolute;
+    top: 25px;
+    left: 71px;
+    color: white;
+}
+.paddingdiv {
+    padding-bottom: 25px;
+}
+
+.conwrapper:hover .seceightimg{transform:scale(1.2)}
+
+.conwrapper:hover .seceightpera h5{color:orange;}
+
+section.SecEight {
+    background: #1f1e1e;
+}
+
+.btn2 {
+    margin-top: 54px;
+    margin-left: 605px;
+    padding-bottom: 50px;
+}
+
+.leftsite {
+    width: 471px;
+    float: left;
+}
+
+.myemail {
+    font-size: 20px;
+    font-family: sans-serif;
+	color: white;
+}
+
+.rightsite {
+    width: 612px;
+    float: right;
+}
+
+
+.rightsite input {
+    width: 256px;
+    padding: 13px;
+    border: none;
+    border-bottom: 1px solid #fdfdfd;
+    margin-right: 21px;
+	background: #25242485;
+}
+
+input.different {
+    width: 563px;
+	margin-top: 20px;
+}
+textarea {
+    width: 588px;
+    margin-top: 20px;
+    border: none;
+    border-bottom: 1px solid #fdfdfd;
+	padding-bottom: 58px;
+    margin-bottom: 36px;
+	background: #25242485;
+}
+
+
+section.ninesec {
+    background: #232323;
+}
+
+.mycontact {
+    overflow: hidden;
+	padding-bottom: 48px;
+}
+
+.footer {
+    width: 400px;
+    margin: auto;
+    padding: 29px;
+    color: white;
+}
+
+footer {
+    background: #171616;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
